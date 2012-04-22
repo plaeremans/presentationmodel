@@ -1,0 +1,16 @@
+Assignment Adapt the implementation of the class SimplePresenationModel,
+in such a way that when the first value is entered by the user,
+the system suggests a complement for the second value, for the values given
+
+suske => wiske
+laurel => hardy
+Janssen => Janssen
+
+More funny/interesting combinations are also allowed.
+
+
+When you run the Main class you can test your implementation.
+
+Do you see any problem  with your implementation ?
+Beware of the TricTrac button it does only work when an item in the table is selected.
+
